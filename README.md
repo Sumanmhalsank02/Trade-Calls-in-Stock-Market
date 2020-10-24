@@ -7,7 +7,7 @@
 
 ## Description
 ---
-This repository is made to plot the `Bollinger Bands` for the TataPower Company and understand the Trade signals 
+This repository is made to plot the `Bollinger Bands` for any Stocks dataset, Here I have used the stock prices of the TataPower company  
 
 To know about Bollinger Bands and to understand the concepts, I would recommend the following Link
 [Bollinger Bands](https://www.investopedia.com/terms/b/bollingerbands.asp)
